@@ -1,0 +1,35 @@
+*{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+background-image: url(https://www.ariostea-high-tech.com/img/collezioni/ultra-pietre/white-ocean/_faces/Stone+Effect++Floors-WHITE+OCEAN-01.jpg);
+}
+
+
+main{
+
+    margin-left: 30px;
+
+}
+
+.titulo1{
+
+    text-align: center;   
+    color:blue;
+    }
+
+
+footer{
+margin-top: 50px;
+text-align: center;    
+}
+
+.job-title {
+
+color:chocolate;
+text-align: center;    
+
+}
+
+#high {
+background-color: yellow;   
+}
+

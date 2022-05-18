@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    font-weight: bolder;
+}
+
+header{
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom:30px;
+    color: black;
+
+}
+
+    ul li
+    {   
+        color: #87CEEB;
+        font-size:20px;
+        list-style: none;
+        text-decoration: none;
+        display:inline-flex;
+        padding: 10px;
+        margin-left: 30px;
+    }
+      
+  a{
+      text-decoration: none;
+
+        }
+       
+    
+
+h1,h2{
+padding-bottom: 30px;    
+}
+
+.guanabara{
+display:center;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+Body{
+    background-image: url(https://i.pinimg.com/564x/ba/40/54/ba40542ba96fb2bb3e9fb1f554c3ca16.jpg);
+    padding-left: 3cm;  
+}
+
+.container{
+    display:table;
+   
+     
+}
+
+.guanabara2{
+display: inline-flexbox;
+
+}
+.texto{
+display:inline-flexbox;
+
+}
+
+.video{
+text-align: center;
+}
+
+iframe{
+text-align: center;
+padding-top: 30px;
+padding-left:350px;
+}
+
+
+h2{
+padding-top: 30px;    
+padding-bottom: 30px;    
+}
+
+.mkt{
+text-align: center;
+font-size: 20px;
+}
+
+footer{
+text-align: center;
+padding-top: 30px;    
+}
